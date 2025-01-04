@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Tomas-Portfolio/static/css/main.2f4f42ce.css",
-    "main.js": "/Tomas-Portfolio/static/js/main.ab210a80.js",
-    "static/js/770.b477def6.chunk.js": "/Tomas-Portfolio/static/js/770.b477def6.chunk.js",
-    "static/js/453.1407b060.chunk.js": "/Tomas-Portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/death_star.webp": "/Tomas-Portfolio/static/media/death_star.b55bc3931607862d56a0.webp",
-    "static/media/Resume_SAP_DataScience.pdf": "/Tomas-Portfolio/static/media/Resume_SAP_DataScience.951666e8f098d94580c7.pdf",
-    "static/media/home-bg.jpg": "/Tomas-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/ai.png": "/Tomas-Portfolio/static/media/ai.047df1215f0c80363b1d.png",
-    "static/media/pre.svg": "/Tomas-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/Tomas-Portfolio/index.html",
-    "main.2f4f42ce.css.map": "/Tomas-Portfolio/static/css/main.2f4f42ce.css.map",
-    "main.ab210a80.js.map": "/Tomas-Portfolio/static/js/main.ab210a80.js.map",
-    "770.b477def6.chunk.js.map": "/Tomas-Portfolio/static/js/770.b477def6.chunk.js.map",
-    "453.1407b060.chunk.js.map": "/Tomas-Portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/Alice-Portfolio/static/css/main.83229a4d.css",
+    "main.js": "/Alice-Portfolio/static/js/main.8bf20420.js",
+    "static/js/770.b477def6.chunk.js": "/Alice-Portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/Alice-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/death_star.webp": "/Alice-Portfolio/static/media/death_star.b55bc3931607862d56a0.webp",
+    "static/media/Resume_SAP_DataScience.pdf": "/Alice-Portfolio/static/media/Resume_SAP_DataScience.951666e8f098d94580c7.pdf",
+    "static/media/home-bg.jpg": "/Alice-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/ai.png": "/Alice-Portfolio/static/media/ai.047df1215f0c80363b1d.png",
+    "static/media/pre.svg": "/Alice-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Alice-Portfolio/index.html",
+    "main.83229a4d.css.map": "/Alice-Portfolio/static/css/main.83229a4d.css.map",
+    "main.8bf20420.js.map": "/Alice-Portfolio/static/js/main.8bf20420.js.map",
+    "770.b477def6.chunk.js.map": "/Alice-Portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/Alice-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f4f42ce.css",
-    "static/js/main.ab210a80.js"
+    "static/css/main.83229a4d.css",
+    "static/js/main.8bf20420.js"
   ]
 }
