@@ -17,7 +17,7 @@ function Home2() {
                 About <span className="purple"> Me </span>
               </h1>
               <p className="home-about-body">
-                I love mathematics and I fell in love with programming as I studied applied mathematics.
+                I am currently studying Computer Science but am interested in mathematics and linguistics.
                 <br />
                 <br />I am proficient in the basics like
                 <i>
