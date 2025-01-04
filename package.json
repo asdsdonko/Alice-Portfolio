@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://asdsdonko.github.io",
+  "homepage": "https://asdsdonko.github.io/Alice-Portfolio",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
