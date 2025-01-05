@@ -62,7 +62,7 @@ button:focus {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #009933;
+  background: #f279c2;
   border-radius: 12px;
 }
 
@@ -97,7 +97,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #009933 !important;
+  background-color: #f279c2 !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -194,7 +194,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #009933;
+  background: #f279c2;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -294,17 +294,17 @@ button:focus {
 }
 
 .main-name {
-  color: #009933;
+  color: #f279c2;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #009933 !important;
+  color: #f279c2 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #009933 !important;
+  color: #f279c2 !important;
 }
 
 @media (max-width: 767px) {
@@ -386,7 +386,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #009933;
+  background: #f279c2;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -394,13 +394,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #009933;
+  box-shadow: 0 0 15px #f279c2;
 }
 
 .home-social-icons:hover {
-  color: #009933;
-  box-shadow: 0 0 5px #009933;
-  text-shadow: 0 0 2px #009933;
+  color: #f279c2;
+  box-shadow: 0 0 5px #f279c2;
+  text-shadow: 0 0 2px #f279c2;
 }
 
 .social-icons {
@@ -454,7 +454,7 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: #009933 !important;
+  color: #f279c2 !important;
 }
 /* --------- */
 /* Projects */
@@ -475,7 +475,7 @@ button:focus {
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px #009933 !important;
+  box-shadow: 0 4px 5px 3px #f279c2 !important;
   color: white !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
@@ -485,7 +485,7 @@ button:focus {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px #009933 !important;
+  box-shadow: 0 4px 4px 5px #f279c2 !important;
 }
 
 .blog-card {
@@ -516,7 +516,7 @@ button:focus {
 .blog-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 3px 3px 5px #009933 !important;
+  box-shadow: 0 3px 3px 5px #f279c2 !important;
 }
 
 .card-img-top {
@@ -539,8 +539,8 @@ button:focus {
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #009933 !important;
-  border-color: #009933 !important;
+  background-color: #f279c2 !important;
+  border-color: #f279c2 !important;
 }
 .btn:focus {
   outline: none !important;
@@ -570,7 +570,7 @@ button:focus {
   margin: 15px !important;
   padding: 10px !important;
   opacity: 0.93 !important;
-  border: 1.7px solid #009933 !important;
+  border: 1.7px solid #f279c2 !important;
   vertical-align: middle !important;
   text-align: center !important;
   border-radius: 5px !important;
@@ -589,7 +589,7 @@ button:focus {
 .tech-icons:hover {
   transform: scale(1.05) !important;
   overflow: hidden !important;
-  border: 2.2px solid #009933 !important;
+  border: 2.2px solid #f279c2 !important;
 }
 .tech-icon-images {
   padding: 20px !important;
@@ -660,14 +660,14 @@ button:focus {
 .resume .resume-item {
   padding: 0 0 10px 25px;
   margin-top: -2px;
-  border-left: 2px solid #009933;
+  border-left: 2px solid #f279c2;
   position: relative;
 }
 
 .resume .resume-item .resume-title {
   line-height: 18px;
   font-size: 0.9em;
-  background: #009933;
+  background: #f279c2;
   padding: 8px 15px;
   display: inline-block;
   font-weight: 600;
@@ -697,7 +697,7 @@ button:focus {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #009933;
+  border: 2px solid #f279c2;
 }
 
 .like-item {
@@ -717,8 +717,8 @@ button:focus {
 
 .like-btn:hover {
   transform: translateY(-2px) !important;
-  background-color: #009933 !important;
-  border-color: #009933 !important;
+  background-color: #f279c2 !important;
+  border-color: #f279c2 !important;
 }
 
 .animate-like {
@@ -750,8 +750,8 @@ button:focus {
 
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;
-  background-color: #009933 !important;
-  border-color: #009933 !important;
+  background-color: #f279c2 !important;
+  border-color: #f279c2 !important;
 }
 .fork-btn-inner::after {
   display: none !important;
@@ -772,7 +772,7 @@ button:focus {
 .typewriter-container {
   text-align: left;
   font-family: 'Courier New', Courier, monospace;
-  color: #00ff00;
+  color: #f59fd0;
   background-color: #1e1e1e;
   padding: 20px;
   border-radius: 5px;
@@ -792,7 +792,7 @@ button:focus {
 .bar {
   width: 300px; /* Increased width */
   height: 3px; /* Smaller height */
-  border: 1px solid #00ff00;
+  border: 1px solid #f59fd0;
   position: relative;
   background-color: black;
 }
@@ -800,7 +800,7 @@ button:focus {
 .progress {
   width: 0;
   height: 100%;
-  background-color: #00ff00;
+  background-color: #f59fd0;
   animation: load 1s linear infinite;
 }
 
@@ -817,7 +817,7 @@ button:focus {
   white-space: pre-wrap;
   padding: 10px;
   background-color: #1e1e1e;
-  border: 1px solid #00ff00;
+  border: 1px solid #f59fd0;
   border-radius: 5px;
   height: 320px; /* Adjusted height to fit within the container */
   overflow-y: auto; /* Scroll if content overflows */
@@ -840,7 +840,7 @@ button:focus {
   position: relative;
   z-index: 2;
   background-color: #1e1e1e;
-  color: #00ff00;
+  color: #f59fd0;
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0px 0px 10px rgba(0, 255, 0, 0.5);
@@ -866,14 +866,14 @@ button:focus {
 .project-heading {
   position: relative;
   z-index: 2;
-  color: #00ff00; /* Matrix green color for the heading */
+  color: #f59fd0; /* Matrix green color for the heading */
 }
 
 .quote-card-view {
   position: relative;
   z-index: 2;
   background-color: #1e1e1e;
-  color: #00ff00;
+  color: #f59fd0;
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0px 0px 10px rgba(0, 255, 0, 0.5);
