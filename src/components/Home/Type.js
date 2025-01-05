@@ -6,9 +6,9 @@ function Type() {
         <Typewriter
             options={{
                 strings: [
-                    "Loading field: 'Data Science'...",
+                    "Loading field: 'Computer Science'...",
                     ">>> Output: Success",
-                    "Loading field: 'Mathematics'...",
+                    "Loading field: 'Design'...",
                     ">>> Output: Success",
                     "Loading field: 'Machine Learning'...",
                     ">>> Output: Success",
