@@ -9,22 +9,22 @@ function AboutCard() {
         <Card.Body>
           <blockquote className="blockquote mb-0">
             <p style={{ textAlign: "justify" }}>
-              Hi Everyone, I am <span className="purple">Tomas Dos Santos </span>
+              Hi Everyone, I am <span className="purple">Alice Dos Santos </span>
               from <span className="purple"> Riverside, California.</span>
               <br />
-              I am a graduate from the University of California, Riverside.
+              I am a student at Stanford University.
               <br />
-              I completed a degree in mathematics with a concentration in computation.
+              I am studying a Computer Science.
               <br />
               <br />
               Apart from coding, some other activities that I love to do!
             </p>
             <ul>
               <li className="about-activity">
-                <ImPointRight /> Playing Chess
+                <ImPointRight /> Reading!
               </li>
               <li className="about-activity">
-                <ImPointRight /> Reading and writing about mathematics
+                <ImPointRight /> Painting, drawing, and designing
               </li>
               <li className="about-activity">
                 <ImPointRight /> Traveling
