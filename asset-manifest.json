@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Alice-Portfolio/static/css/main.83229a4d.css",
-    "main.js": "/Alice-Portfolio/static/js/main.4a02f9a1.js",
+    "main.css": "/Alice-Portfolio/static/css/main.a5df2f43.css",
+    "main.js": "/Alice-Portfolio/static/js/main.faf76984.js",
     "static/js/770.b477def6.chunk.js": "/Alice-Portfolio/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/Alice-Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/death_star.webp": "/Alice-Portfolio/static/media/death_star.b55bc3931607862d56a0.webp",
@@ -10,13 +10,13 @@
     "static/media/ai.png": "/Alice-Portfolio/static/media/ai.047df1215f0c80363b1d.png",
     "static/media/pre.svg": "/Alice-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Alice-Portfolio/index.html",
-    "main.83229a4d.css.map": "/Alice-Portfolio/static/css/main.83229a4d.css.map",
-    "main.4a02f9a1.js.map": "/Alice-Portfolio/static/js/main.4a02f9a1.js.map",
+    "main.a5df2f43.css.map": "/Alice-Portfolio/static/css/main.a5df2f43.css.map",
+    "main.faf76984.js.map": "/Alice-Portfolio/static/js/main.faf76984.js.map",
     "770.b477def6.chunk.js.map": "/Alice-Portfolio/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/Alice-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83229a4d.css",
-    "static/js/main.4a02f9a1.js"
+    "static/css/main.a5df2f43.css",
+    "static/js/main.faf76984.js"
   ]
 }
