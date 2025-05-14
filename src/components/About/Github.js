@@ -9,7 +9,7 @@ function Github() {
         My <strong className="purple">Contributions</strong>
       </h1>
       <GitHubCalendar
-        username="tomsbados"
+        username="asdsdonko"
         blockSize={15}
         blockMargin={5}
         color="#009933"
