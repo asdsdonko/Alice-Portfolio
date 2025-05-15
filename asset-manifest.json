@@ -1,9 +1,15 @@
 {
   "files": {
     "main.css": "/Alice-Portfolio/static/css/main.b548d80e.css",
-    "main.js": "/Alice-Portfolio/static/js/main.0b6c2fd1.js",
+    "main.js": "/Alice-Portfolio/static/js/main.2622dca2.js",
     "static/js/770.b477def6.chunk.js": "/Alice-Portfolio/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/Alice-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Screenshot 2025-05-15 at 2.58.46 PM.png": "/Alice-Portfolio/static/media/Screenshot 2025-05-15 at 2.58.46 PM.aa9912c1741a2032f7fe.png",
+    "static/media/Screenshot 2025-05-15 at 3.08.10 PM.png": "/Alice-Portfolio/static/media/Screenshot 2025-05-15 at 3.08.10 PM.cd8a1b098faf6f60083b.png",
+    "static/media/Screenshot 2025-05-15 at 2.41.31 PM.png": "/Alice-Portfolio/static/media/Screenshot 2025-05-15 at 2.41.31 PM.0a5a5c72be7f9ecab99b.png",
+    "static/media/Screenshot 2025-05-15 at 2.52.36 PM.png": "/Alice-Portfolio/static/media/Screenshot 2025-05-15 at 2.52.36 PM.115701ca885547db6be4.png",
+    "static/media/Screenshot 2025-05-15 at 2.34.40 PM.png": "/Alice-Portfolio/static/media/Screenshot 2025-05-15 at 2.34.40 PM.893a1492906e4c28ad8d.png",
+    "static/media/82AA777B-6B58-4BC0-A938-0DED9CCEFCA0_1_201_a.jpeg": "/Alice-Portfolio/static/media/82AA777B-6B58-4BC0-A938-0DED9CCEFCA0_1_201_a.d8146fb326b9c5846d50.jpeg",
     "static/media/death_star.webp": "/Alice-Portfolio/static/media/death_star.b55bc3931607862d56a0.webp",
     "static/media/ResumeAliceDosSantos-4.pdf": "/Alice-Portfolio/static/media/ResumeAliceDosSantos-4.8ea68646d658b14e68fd.pdf",
     "static/media/home-bg.jpg": "/Alice-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -11,12 +17,12 @@
     "static/media/pre.svg": "/Alice-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Alice-Portfolio/index.html",
     "main.b548d80e.css.map": "/Alice-Portfolio/static/css/main.b548d80e.css.map",
-    "main.0b6c2fd1.js.map": "/Alice-Portfolio/static/js/main.0b6c2fd1.js.map",
+    "main.2622dca2.js.map": "/Alice-Portfolio/static/js/main.2622dca2.js.map",
     "770.b477def6.chunk.js.map": "/Alice-Portfolio/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/Alice-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b548d80e.css",
-    "static/js/main.0b6c2fd1.js"
+    "static/js/main.2622dca2.js"
   ]
 }
