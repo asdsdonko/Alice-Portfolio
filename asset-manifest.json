@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Alice-Portfolio/static/css/main.b548d80e.css",
-    "main.js": "/Alice-Portfolio/static/js/main.fe3d83fa.js",
+    "main.js": "/Alice-Portfolio/static/js/main.9785a670.js",
     "static/js/770.b477def6.chunk.js": "/Alice-Portfolio/static/js/770.b477def6.chunk.js",
     "static/js/453.1407b060.chunk.js": "/Alice-Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/Screenshot 2025-05-15 at 2.58.46 PM.png": "/Alice-Portfolio/static/media/Screenshot 2025-05-15 at 2.58.46 PM.aa9912c1741a2032f7fe.png",
@@ -20,12 +20,12 @@
     "static/media/pre.svg": "/Alice-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Alice-Portfolio/index.html",
     "main.b548d80e.css.map": "/Alice-Portfolio/static/css/main.b548d80e.css.map",
-    "main.fe3d83fa.js.map": "/Alice-Portfolio/static/js/main.fe3d83fa.js.map",
+    "main.9785a670.js.map": "/Alice-Portfolio/static/js/main.9785a670.js.map",
     "770.b477def6.chunk.js.map": "/Alice-Portfolio/static/js/770.b477def6.chunk.js.map",
     "453.1407b060.chunk.js.map": "/Alice-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b548d80e.css",
-    "static/js/main.fe3d83fa.js"
+    "static/js/main.9785a670.js"
   ]
 }
